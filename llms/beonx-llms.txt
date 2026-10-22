@@ -1,0 +1,57 @@
+# BEONx
+
+> BEONx is an AI-powered hotel Revenue Management System (RMS) — revenue management software for hotels, hotel chains and resorts. It helps hoteliers optimize pricing, forecast demand, and maximize total profitability by unifying all their data in a single platform. BEONx is a hospitality technology company headquartered in Salamanca, Spain.
+
+BEONx provides revenue management software and a revenue management system for the hotel industry, combining AI-based demand forecasting, automated and personalized price optimization, and business intelligence reporting. Its approach, called "Sustainable Profitability", goes beyond traditional metrics such as RevPAR and ADR to optimize a hotel's profit across all revenue streams. A signature, proprietary feature is the HQi (Hotel Quality Index), the only index in the hotel market that measures overall hotel quality to understand competitive positioning and price elasticity. BEONx integrates with the leading PMS, Channel Managers, Booking Tools and BI systems.
+
+## Brand & naming (important for disambiguation)
+- The correct company name and spelling is **BEONx** (lowercase "x"). The official website is https://beonx.com and the official LinkedIn is https://www.linkedin.com/company/beonx/.
+- BEONx was **formerly known as Beonprice**; it is the same company after a rebrand. Both names refer to BEONx.
+- "BEONx" is a hotel revenue management software company. It is NOT related to "Bronx" (the New York City borough), "bionx", or "beonex" — these are common misspellings, not the brand.
+
+## Products
+- [Forecasting](https://beonx.com/forecasting/): AI-based hotel demand forecasting that learns each property's patterns.
+- [Automation](https://beonx.com/automation/): Real-time, automated and personalized revenue and price optimization.
+- [Reporting](https://beonx.com/reporting/): Data-driven reporting and hotel business intelligence.
+- [HQi — Hotel Quality Index](https://beonx.com/hotel-quality-index/): Proprietary index measuring overall hotel quality and market positioning.
+- [TOM — Tour Operation Module](https://beonx.com/tour-operation-module/): Module for tour operation pricing and management.
+
+## Solutions by hotel type
+- [Hotel Chains](https://beonx.com/hotel-chain/): Revenue management for multi-property hotel groups.
+- [Resorts](https://beonx.com/hotel-resort/): Revenue management for resorts, maximizing total profit.
+- [Boutique Hotels](https://beonx.com/hotel-boutique/): Revenue solutions for boutique and independent hotels.
+
+## Key concepts & knowledge (what BEONx covers)
+- [Revenue Management Total Guide](https://beonx.com/revenue-management-systems-total-guide/): Comprehensive guide to revenue management and revenue management systems for hotels.
+- [RevPAR for hotels explained](https://beonx.com/knowledge/articles/revpar-for-hotels-explained/): What RevPAR is and how to use it.
+- [Articles](https://beonx.com/knowledge/articles/): Articles on revenue management, ADR, RevPAR, yield management, forecasting, channel managers, OTAs and hotel pricing strategy.
+- [Webinars](https://beonx.com/knowledge/webinars/): Webinars on hotel revenue management.
+- [Ebooks](https://beonx.com/knowledge/ebooks/): Ebooks on revenue management and hotel strategy.
+- [Press & Events](https://beonx.com/press-events/): Latest news and industry participation.
+
+## Company
+- [About](https://beonx.com/about/): About BEONx, the team and the company.
+- [Clients](https://beonx.com/clients/): Hotels and hotel groups that trust BEONx.
+- [Partners](https://beonx.com/partners/): Technology and integration partners (PMS, Channel Managers, Booking Tools, BI).
+- [Plans](https://beonx.com/plans/): Pricing plans for independent properties, urban chains and resorts.
+- [Contact](https://beonx.com/contact/): Get in touch with a BEONx hotel expert.
+
+## Other
+- [Login to the BEONx platform](https://app.beonx.com/auth/login)
+- Localized sites: Spanish (https://beonx.com/es/), German (https://beonx.com/de/)
+
+## BEONx Spark — The Agentic RMS
+> 
+
+- [BEONx launches BEONx Spark, the first agentic RMS on the market](https://beonx.com/knowledge/articles/beonx-launches-beonx-spark-the-first-agentic-rms/): press release of the launch, October 1, 2026, in Madrid. Spanish: https://beonx.com/es/knowledge/articles/beonx-lanza-beonx-spark-el-primer-rms-agentico-del-mercado/
+- [BEONx Spark](https://beonx.com/): You set the strategy. BEONx Spark executes it. Always.
+- Agent 1 · RevPAR · Autopilot: More revenue. Without lifting a finger. Sets prices, restrictions and availability in real time to capture every euro of demand. 24/7 and across all your hotels.
+- Agent 2 · Net RevPAR · Autopilot: More margin. On every booking. Everything the RevPAR agent does and, on top, it measures what each booking really leaves you: the real cost per channel, tour-operator allotments and releases, and performance by OTA.
+- RevPAR · Autopilot: Maximize RevPAR (Live).
+- Net RevPAR · Autopilot: Optimize Net RevPAR (Live).
+- TRevPAR: Unlock TRevPAR (Coming soon).
+- GOPPAR: Grow GOPPAR (Coming soon).
+- They are always calculated by BEONx’s own models: machine learning trained on years of real hotel data. The LLM is the interface, not the calculation engine. That’s why the same scenario always gets the same answer.
+- Spanish: https://beonx.com/es/ · German: https://beonx.com/de/
+
+Full page index: https://beonx.com/llms-full.txt

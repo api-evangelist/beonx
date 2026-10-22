@@ -1,25 +1,77 @@
 aid: beonx
+
 name: BeonX
-description: 'BeonX is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by adaraventurepartners) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://beonx.com/compartir/beonx-spark-en.jpg
+
+description: 'BeonX provides an AI‑driven revenue management system (RMS) for hotels, enabling autonomous pricing, distribution and profitability decisions 24/7. The platform combines real‑time data, machine learning and agentic automation to optimize occupancy and revenue while offering transparent explanations for each decision.'
+
 url: https://raw.githubusercontent.com/api-evangelist/beonx/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-21 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-21'
+
 modified: '2026-10-21'
+
 tags:
 - Company
-apis: []
+- AI
+- Revenue-Management
+- Hospitality
+- SaaS
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- adaraventurepartners
+
 common:
+- type: LLMsTxt
+  url: llms/beonx-llms.txt
+- type: WellKnown
+  url: well-known/beonx-well-known.yml
+- type: Hosts
+  url: hosts/beonx-hosts.yml
+- type: Vendors
+  url: vendors/beonx-vendors.yml
+- type: TermsOfService
+  url: https://beonx.com/terms-conditions/
+- type: PrivacyPolicy
+  url: https://beonx.com/privacy-policy/
+- type: Newsroom
+  url: https://beonx.com/knowledge/articles/category/media/
+- type: Login
+  url: https://app.beonx.com/auth/login
+- type: GitHubOrganization
+  url: https://github.com/beonx
+- type: DomainSecurity
+  url: security/beonx-domain-security.yml
 - type: Website
   url: https://beonx.com
+
+- type: Documentation
+  url: https://beonx.com/knowledge/
+- type: GettingStarted
+  url: https://beonx.com/plans/
+- type: Support
+  url: https://beonx.com/press-events/
+
+apis: []
+
+x-backed-by:
+- adaraventurepartners
+x-enrichment:
+  date: '2026-10-21'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
